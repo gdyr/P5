@@ -1,0 +1,17 @@
+{
+  "name": "p5-mediaserver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [
+    "p5"
+  ],
+  "author": "Michael Goodyear <m@gdyr.co>",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^2.0.6"
+  }
+}
